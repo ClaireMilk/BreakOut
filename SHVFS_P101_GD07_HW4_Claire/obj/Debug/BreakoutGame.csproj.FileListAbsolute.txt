@@ -1,0 +1,30 @@
+D:\Programming\Breakout\BreakoutGame\bin\Debug\BreakoutGame.exe.config
+D:\Programming\Breakout\BreakoutGame\bin\Debug\BreakoutGame.exe
+D:\Programming\Breakout\BreakoutGame\bin\Debug\BreakoutGame.pdb
+D:\Programming\Breakout\BreakoutGame\obj\Debug\BreakoutGame.csproj.AssemblyReference.cache
+D:\Programming\Breakout\BreakoutGame\obj\Debug\BreakoutGame.Form1.resources
+D:\Programming\Breakout\BreakoutGame\obj\Debug\BreakoutGame.Properties.Resources.resources
+D:\Programming\Breakout\BreakoutGame\obj\Debug\BreakoutGame.csproj.GenerateResource.cache
+D:\Programming\Breakout\BreakoutGame\obj\Debug\BreakoutGame.csproj.CoreCompileInputs.cache
+D:\Programming\Breakout\BreakoutGame\obj\Debug\BreakoutGame.exe
+D:\Programming\Breakout\BreakoutGame\obj\Debug\BreakoutGame.pdb
+D:\Programming\Breakout\BreakoutGame - Copy\bin\Debug\BreakoutGame.exe.config
+D:\Programming\Breakout\BreakoutGame - Copy\bin\Debug\BreakoutGame.exe
+D:\Programming\Breakout\BreakoutGame - Copy\bin\Debug\BreakoutGame.pdb
+D:\Programming\Breakout\BreakoutGame - Copy\obj\Debug\BreakoutGame.csproj.AssemblyReference.cache
+D:\Programming\Breakout\BreakoutGame - Copy\obj\Debug\BreakoutGame.Form1.resources
+D:\Programming\Breakout\BreakoutGame - Copy\obj\Debug\BreakoutGame.Properties.Resources.resources
+D:\Programming\Breakout\BreakoutGame - Copy\obj\Debug\BreakoutGame.csproj.GenerateResource.cache
+D:\Programming\Breakout\BreakoutGame - Copy\obj\Debug\BreakoutGame.csproj.CoreCompileInputs.cache
+D:\Programming\Breakout\BreakoutGame - Copy\obj\Debug\BreakoutGame.exe
+D:\Programming\Breakout\BreakoutGame - Copy\obj\Debug\BreakoutGame.pdb
+C:\Users\GD Student\Desktop\Breakout\bin\Debug\BreakoutGame.exe.config
+C:\Users\GD Student\Desktop\Breakout\bin\Debug\BreakoutGame.exe
+C:\Users\GD Student\Desktop\Breakout\bin\Debug\BreakoutGame.pdb
+C:\Users\GD Student\Desktop\Breakout\obj\Debug\BreakoutGame.csproj.AssemblyReference.cache
+C:\Users\GD Student\Desktop\Breakout\obj\Debug\BreakoutGame.Form1.resources
+C:\Users\GD Student\Desktop\Breakout\obj\Debug\BreakoutGame.Properties.Resources.resources
+C:\Users\GD Student\Desktop\Breakout\obj\Debug\BreakoutGame.csproj.GenerateResource.cache
+C:\Users\GD Student\Desktop\Breakout\obj\Debug\BreakoutGame.csproj.CoreCompileInputs.cache
+C:\Users\GD Student\Desktop\Breakout\obj\Debug\BreakoutGame.exe
+C:\Users\GD Student\Desktop\Breakout\obj\Debug\BreakoutGame.pdb
